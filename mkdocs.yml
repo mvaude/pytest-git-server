@@ -1,0 +1,6 @@
+site_name: pytest-git-server
+site_description: A simple plugin to handle git repositories manipulation in local
+
+theme: readthedocs
+
+repo_url: https://github.com/mvaude/pytest-git-server
